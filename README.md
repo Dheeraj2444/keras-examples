@@ -1,6 +1,6 @@
 # Keras Examples
 
-Keras is an user friendly high-level deep learning framework that uses Theano as well as TensorFlow as a backend and helps you easily build complex deep learning architectures. Here, I'll share how we can train different deep learning architectures using Keras.
+Keras is a user friendly high-level deep learning framework that uses Theano as well as TensorFlow as a backend and helps you easily build complex deep learning architectures. Here, I'll share how we can train different deep learning architectures using Keras.
 
 **Note**: Before using Keras, it is advisable to understand detailed working of all these frameworks and implement them using pure numpy at first for better understanding (at least feed forward neural network, including backpropagation).<br><br>
 
