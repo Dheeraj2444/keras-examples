@@ -8,5 +8,7 @@ Keras is a user friendly high-level deep learning framework that uses Theano as 
 	* [feed_forward_neural_network.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/feed_forward_neural_network.ipynb): Trained a 3-layered neural network for binary classification using [Ionosphere Data Set](https://archive.ics.uci.edu/ml/datasets/ionosphere)<br>
 * **Covolutional Neural Network**
 	* [convolutional_nerual_network.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/convolutional_nerual_network.ipynb): Trained a convolutional neural network to classify MNIST digits<br>
+* **Part-of-Speech Tagging**
+	*[pos_tagging.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/pos_tagging.ipynb): Trained a 3-layered neural network on Penn treebank corpus to predict the part of speech tag of a word in a sentence
 * **Long Term Short Memory (LSTM)**
 	* [sentiment_analysis_LSTM.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/sentiment_analysis_LSTM.ipynb): Trained a LSTM model to perform sentiment analysis over IMDB movie reviews<br>
