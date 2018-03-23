@@ -12,5 +12,5 @@ Keras is a user friendly high-level deep learning framework that uses Theano as 
 	* [pos_tagging.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/pos_tagging.ipynb): Trained a **3-layered neural network** on Penn treebank corpus to predict the part of speech tag of a word in a sentence
 * **Sentiment Analysis**
 	* [sentiment_analysis_LSTM.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/sentiment_analysis_LSTM.ipynb): Trained a **Long Short Term Memory (LSTM)** model to perform sentiment analysis over IMDB movie reviews<br>
-* **Dialoge-Act Recognition**
-	* [dialoge_act_recognition.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/dialoge_act_recognition.ipynb): Trained a 3-layered neural network on the [NPS Chat](http://faculty.nps.edu/cmartell/NPSChat.htm) corpus to recognize an act from a given dialoge
+* **Dialogue-Act Recognition**
+	* [dialogue_act_recognition.ipynb](https://github.com/Dheeraj2444/keras-examples/blob/master/dialogue_act_recognition.ipynb): Trained a 3-layered neural network on the [NPS Chat](http://faculty.nps.edu/cmartell/NPSChat.htm) corpus to recognize an act from a given dialogue
